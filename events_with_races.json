@@ -1,0 +1,3317 @@
+[
+  {
+    "nom_evenement": "FOREST NIGHT",
+    "categorie": "Trail",
+    "date_evenement": "21 Mar 2026",
+    "heure_evenement": "21h00",
+    "lieu_evenement": "Montaigut-sur-Save (31)",
+    "url_detail": "https://chrono-start.com/events/forest-night/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5046",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "17€",
+        "date_cloture_inscriptions": "21/03/2026",
+        "places_restantes": 60,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "FOREST 14 KM",
+        "distance": "14 KM",
+        "prix": "17€",
+        "date_cloture_inscriptions": "21/03/2026",
+        "places_restantes": 60,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "FOREST 14 KM",
+        "distance": "14 KM",
+        "prix": "17€",
+        "date_cloture_inscriptions": "21/03/2026",
+        "places_restantes": 60,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "L’INDÉCIS – TRAIL DE CAVANAC",
+    "categorie": "Trail",
+    "date_evenement": "21 Mar 2026",
+    "heure_evenement": "17h00",
+    "lieu_evenement": "Cavanac (11)",
+    "url_detail": "https://chrono-start.com/events/trail-de-cavanac/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5008",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "14€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "14€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "14€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 19 KM",
+        "distance": "19 KM",
+        "prix": "19€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 40,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DE LA DIGNE D’AVAL",
+    "categorie": "Trail",
+    "date_evenement": "22 Mar 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "La Digne d'Aval (11)",
+    "url_detail": "https://chrono-start.com/events/trail-de-la-digne-daval/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4929",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 18,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 9 KM",
+        "distance": "9 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 18,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 9 KM",
+        "distance": "9 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 18,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 16 KM",
+        "distance": "16 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 22,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 25 KM",
+        "distance": "25 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 9,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DES FORGERONS",
+    "categorie": "Trail",
+    "date_evenement": "22 Mar 2026",
+    "heure_evenement": "8h45",
+    "lieu_evenement": "Saint-Juery (81)",
+    "url_detail": "https://chrono-start.com/events/trail-des-forgerons/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4915",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "12€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA FORGERONETTE 8 KM (Course Féminine)",
+        "distance": "8 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA FORGERONETTE 8 KM (Course Féminine)",
+        "distance": "8 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE NATURE 14,5 KM",
+        "distance": "14,5 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL DES FORGERONS 30 KM",
+        "distance": "30 KM",
+        "prix": "25€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL D’AGEN",
+    "categorie": "Trail",
+    "date_evenement": "22 Mar 2026",
+    "heure_evenement": "9h30",
+    "lieu_evenement": "Agen (47)",
+    "url_detail": "https://chrono-start.com/events/trail-dagen/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4920",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "12€",
+        "date_cloture_inscriptions": "21/03/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "21/03/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 16 KM",
+        "distance": "16 KM",
+        "prix": "16€",
+        "date_cloture_inscriptions": "21/03/2026",
+        "places_restantes": 1,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL LA GAJANAISE",
+    "categorie": "Trail",
+    "date_evenement": "22 Mar 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Gajan (09)",
+    "url_detail": "https://chrono-start.com/events/trail-la-gajanaise/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4957",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "21/03/2026",
+        "places_restantes": 54,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "21/03/2026",
+        "places_restantes": 54,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "21/03/2026",
+        "places_restantes": 54,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 26 KM",
+        "distance": "26 KM",
+        "prix": "18€",
+        "date_cloture_inscriptions": "21/03/2026",
+        "places_restantes": 62,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL ODARSOIS",
+    "categorie": "Trail",
+    "date_evenement": "22 Mar 2026",
+    "heure_evenement": "8h30",
+    "lieu_evenement": "Odars (31)",
+    "url_detail": "https://chrono-start.com/events/trail-odarsois/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4960",
+    "courses": [
+      {
+        "nom_course": "TRAIL 30 KM - SOLO",
+        "distance": "30 KM",
+        "prix": "28€ à 40€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 52,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 30 KM - RELAIS DE 3",
+        "distance": "30 KM",
+        "prix": "28€ à 40€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 42,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 19 KM",
+        "distance": "19 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 118,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 58,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "GRAND TRAIL DES CADOURQUES",
+    "categorie": "Trail",
+    "date_evenement": "27 - 29 Mar 2026",
+    "heure_evenement": "20h00",
+    "lieu_evenement": "Cahors (46)",
+    "url_detail": "https://chrono-start.com/events/grand-trail-des-cadourques/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4513",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "130€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 2,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "GRAND TRAIL DES CADOURQUES 120 KM",
+        "distance": "120 KM",
+        "prix": "130€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 2,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "GRAND TRAIL DES CADOURQUES 120 KM",
+        "distance": "120 KM",
+        "prix": "130€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LE SAINT-CIRQ 65 KM",
+        "distance": "65 KM",
+        "prix": "70€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 2,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LE DIVONA 30 KM",
+        "distance": "30 KM",
+        "prix": "30€",
+        "date_cloture_inscriptions": "20/03/2026",
+        "places_restantes": 2,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LE VALENTRÉ 15 KM",
+        "distance": "15 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "LE MONTA DAVALA",
+    "categorie": "Trail",
+    "date_evenement": "29 Mar 2026",
+    "heure_evenement": "8h45",
+    "lieu_evenement": "Labastide-Saint-Georges (81)",
+    "url_detail": "https://chrono-start.com/events/le-montadavala/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4774",
+    "courses": [
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "28/03/2026",
+        "places_restantes": 65,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 19 KM",
+        "distance": "19 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "28/03/2026",
+        "places_restantes": 101,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU VENTOLET",
+    "categorie": "Trail",
+    "date_evenement": "29 Mar 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Villefranche-de-Lauragais (31)",
+    "url_detail": "https://chrono-start.com/events/trail-du-ventolet/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4896",
+    "courses": [
+      {
+        "nom_course": "LA PICHONA 8 KM",
+        "distance": "8 KM",
+        "prix": "14€",
+        "date_cloture_inscriptions": "28/03/2026",
+        "places_restantes": 2,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA VENTOLETA 15 KM",
+        "distance": "15 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "28/03/2026",
+        "places_restantes": 1,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA VENTADA 27 KM",
+        "distance": "27 KM",
+        "prix": "28€",
+        "date_cloture_inscriptions": "28/03/2026",
+        "places_restantes": 35,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU BOIS D’ANGLARS",
+    "categorie": "Trail",
+    "date_evenement": "04 Avr 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Anglars-Juillac (46)",
+    "url_detail": "https://chrono-start.com/events/trail-du-bois-danglars/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5040",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "13€",
+        "date_cloture_inscriptions": "03/04/2026",
+        "places_restantes": 41,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 12 KM",
+        "distance": "12 KM",
+        "prix": "13€",
+        "date_cloture_inscriptions": "03/04/2026",
+        "places_restantes": 41,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 12 KM",
+        "distance": "12 KM",
+        "prix": "13€",
+        "date_cloture_inscriptions": "03/04/2026",
+        "places_restantes": 41,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 22 KM",
+        "distance": "22 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "03/04/2026",
+        "places_restantes": 94,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL NOCTURNE DE TOURNEFEUILLE",
+    "categorie": "Trail",
+    "date_evenement": "04 Avr 2026",
+    "heure_evenement": "20h30",
+    "lieu_evenement": "Tournefeuille (31)",
+    "url_detail": "https://chrono-start.com/events/trail-nocturne-de-tournefeuille/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5050",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "16€",
+        "date_cloture_inscriptions": "01/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "16€",
+        "date_cloture_inscriptions": "01/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "16€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "LA FRÉJAIROLLAISE",
+    "categorie": "Trail",
+    "date_evenement": "05 Avr 2026",
+    "heure_evenement": "8h30",
+    "lieu_evenement": "Fréjairolles (81)",
+    "url_detail": "https://chrono-start.com/events/la-frejairollaise/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4970",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "8€",
+        "date_cloture_inscriptions": "31/03/2026",
+        "places_restantes": 610,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "8€",
+        "date_cloture_inscriptions": "31/03/2026",
+        "places_restantes": 610,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "8€",
+        "date_cloture_inscriptions": "31/03/2026",
+        "places_restantes": 610,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 15 KM",
+        "distance": "15 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "31/03/2026",
+        "places_restantes": 610,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 28 KM",
+        "distance": "28 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "31/03/2026",
+        "places_restantes": 610,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DE L’ARGENT DOUBLE",
+    "categorie": "Trail",
+    "date_evenement": "05 Avr 2026",
+    "heure_evenement": "5h00",
+    "lieu_evenement": "Caunes-Minervois (11)",
+    "url_detail": "https://chrono-start.com/events/trail-de-largent-double/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4860",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "65€",
+        "date_cloture_inscriptions": "29/03/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 64 KM (repas du soir offert)",
+        "distance": "64 KM",
+        "prix": "65€",
+        "date_cloture_inscriptions": "29/03/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 64 KM (repas du soir offert)",
+        "distance": "64 KM",
+        "prix": "65€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 32 KM",
+        "distance": "32 KM",
+        "prix": "35€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 21 KM",
+        "distance": "21 KM",
+        "prix": "22€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 12 KM",
+        "distance": "12 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DES CITADELLES",
+    "categorie": "Trail",
+    "date_evenement": "05 Avr 2026",
+    "heure_evenement": "6h00",
+    "lieu_evenement": "Lavelanet (09)",
+    "url_detail": "https://chrono-start.com/events/trail-des-citadelles/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4713",
+    "courses": [
+      {
+        "nom_course": "74 KM DES CITADELLES - SOLO",
+        "distance": "74 KM",
+        "prix": "65€",
+        "date_cloture_inscriptions": "29/03/2026",
+        "places_restantes": 38,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "74 KM DES CITADELLES - RELAIS DE 4",
+        "distance": "74 KM",
+        "prix": "80€",
+        "date_cloture_inscriptions": "29/03/2026",
+        "places_restantes": 11,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "59 KM DES CITADELLES",
+        "distance": "59 KM",
+        "prix": "50€",
+        "date_cloture_inscriptions": "29/03/2026",
+        "places_restantes": 28,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "40 KM DES CITADELLES",
+        "distance": "40 KM",
+        "prix": "35€",
+        "date_cloture_inscriptions": "29/03/2026",
+        "places_restantes": 4,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "26 KM DES CITADELLES",
+        "distance": "26 KM",
+        "prix": "25€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "10 KM DU SANCTUS",
+        "distance": "10 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "FES’TRAIL D’ALAN",
+    "categorie": "Trail",
+    "date_evenement": "11 Avr 2026",
+    "heure_evenement": "16h00",
+    "lieu_evenement": "Alan (31)",
+    "url_detail": "https://chrono-start.com/events/festrail-dalan/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5010",
+    "courses": [
+      {
+        "nom_course": "TRAIL DES DOUVES 7 KM",
+        "distance": "7 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 42,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL DE LA CARRIÈRE 15 KM",
+        "distance": "15 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 45,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL DES ÉVÊQUES 25 KM",
+        "distance": "25 KM",
+        "prix": "25€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 46,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "L’AMOUR EST DANS LE TRAIL",
+    "categorie": "Trail",
+    "date_evenement": "11 Avr 2026",
+    "heure_evenement": "17h00",
+    "lieu_evenement": "Venerque (31)",
+    "url_detail": "https://chrono-start.com/events/lamour-est-dans-le-trail/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5047",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "30€",
+        "date_cloture_inscriptions": "09/04/2026",
+        "places_restantes": 427,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "10 KM DE L'AMOUR (inscription à la course + dotation coureurs + repas et soirée dansante)",
+        "distance": "10 KM",
+        "prix": "30€",
+        "date_cloture_inscriptions": "09/04/2026",
+        "places_restantes": 427,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "10 KM DE L'AMOUR (inscription à la course + dotation coureurs + repas et soirée dansante)",
+        "distance": "10 KM",
+        "prix": "30€",
+        "date_cloture_inscriptions": "09/04/2026",
+        "places_restantes": 427,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DE MONTJOIRE",
+    "categorie": "Trail",
+    "date_evenement": "11 Avr 2026",
+    "heure_evenement": "13h30",
+    "lieu_evenement": "Montjoire (31)",
+    "url_detail": "https://chrono-start.com/events/trail-de-montjoire/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5027",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 17 KM",
+        "distance": "17 KM",
+        "prix": "17€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "BRASSACATRAIL",
+    "categorie": "Trail",
+    "date_evenement": "12 Avr 2026",
+    "heure_evenement": "7h00",
+    "lieu_evenement": "Brassac (81)",
+    "url_detail": "https://chrono-start.com/events/brassacatrail/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5001",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "11€",
+        "date_cloture_inscriptions": "08/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "RONDE FORESTIÈRE 11 KM",
+        "distance": "11 KM",
+        "prix": "11€",
+        "date_cloture_inscriptions": "08/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "RONDE FORESTIÈRE 11 KM",
+        "distance": "11 KM",
+        "prix": "11€",
+        "date_cloture_inscriptions": "08/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA BRASSAGAISE 24 KM",
+        "distance": "24 KM",
+        "prix": "23€",
+        "date_cloture_inscriptions": "08/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "MARATHON 43,5 KM",
+        "distance": "43,5 KM",
+        "prix": "40€",
+        "date_cloture_inscriptions": "08/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "ENTRE SAVE ET GALOP",
+    "categorie": "Trail",
+    "date_evenement": "12 Avr 2026",
+    "heure_evenement": "8h30",
+    "lieu_evenement": "Saint-Paul-sur-Save (31)",
+    "url_detail": "https://chrono-start.com/events/entre-save-et-galop/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4962",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 51,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "L'ENTRÉE 10 KM",
+        "distance": "10 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 51,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "L'ENTRÉE 10 KM",
+        "distance": "10 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 51,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA SAVE 14 KM",
+        "distance": "14 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 77,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA GALOP 24 KM",
+        "distance": "24 KM",
+        "prix": "22€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 5,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LE SAUT 33 KM",
+        "distance": "33 KM",
+        "prix": "28€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 5,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "LA CALAMANAISE",
+    "categorie": "Trail",
+    "date_evenement": "12 Avr 2026",
+    "heure_evenement": "9h30",
+    "lieu_evenement": "Calamane (46)",
+    "url_detail": "https://chrono-start.com/events/la-calamanaise/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4942",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "12€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 126,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 126,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 126,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 22 KM",
+        "distance": "22 KM",
+        "prix": "18€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": 127,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "PENTES & CÔTES",
+    "categorie": "Trail",
+    "date_evenement": "12 Avr 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Saverdun (09)",
+    "url_detail": "https://chrono-start.com/events/pentes-et-cotes/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5073",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "20€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE NATURE 19 KM",
+        "distance": "19 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE NATURE 19 KM",
+        "distance": "19 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE NATURE 10 KM",
+        "distance": "10 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "10/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DE THERMES",
+    "categorie": "Trail",
+    "date_evenement": "12 Avr 2026",
+    "heure_evenement": "10h00",
+    "lieu_evenement": "Domaine de Therme Auvillar (82)",
+    "url_detail": "https://chrono-start.com/events/trail-de-thermes/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5062",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "30€",
+        "date_cloture_inscriptions": "08/04/2026",
+        "places_restantes": 42,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 11 KM (repas brasero inclus)",
+        "distance": "11 KM",
+        "prix": "30€",
+        "date_cloture_inscriptions": "08/04/2026",
+        "places_restantes": 42,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 11 KM (repas brasero inclus)",
+        "distance": "11 KM",
+        "prix": "30€",
+        "date_cloture_inscriptions": "08/04/2026",
+        "places_restantes": 42,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DES 3 ÉTOILES",
+    "categorie": "Trail",
+    "date_evenement": "12 Avr 2026",
+    "heure_evenement": "9h30",
+    "lieu_evenement": "Saint-Clar (32)",
+    "url_detail": "https://chrono-start.com/events/trail-des-3-etoiles/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5015",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "13€",
+        "date_cloture_inscriptions": "11/04/2026",
+        "places_restantes": 237,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL STOP OU ENCORE",
+        "distance": null,
+        "prix": "13€",
+        "date_cloture_inscriptions": "11/04/2026",
+        "places_restantes": 237,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL STOP OU ENCORE",
+        "distance": null,
+        "prix": "13€",
+        "date_cloture_inscriptions": "11/04/2026",
+        "places_restantes": 237,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DES COLIBRIS",
+    "categorie": "Trail",
+    "date_evenement": "12 Avr 2026",
+    "heure_evenement": "9h30",
+    "lieu_evenement": "Le Born (31)",
+    "url_detail": "https://chrono-start.com/events/trail-des-colibris/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5068",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "8€",
+        "date_cloture_inscriptions": "09/04/2026",
+        "places_restantes": 164,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA MÉSANGE 4,5 KM",
+        "distance": "4,5 KM",
+        "prix": "8€",
+        "date_cloture_inscriptions": "09/04/2026",
+        "places_restantes": 164,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA MÉSANGE 4,5 KM",
+        "distance": "4,5 KM",
+        "prix": "8€",
+        "date_cloture_inscriptions": "09/04/2026",
+        "places_restantes": 164,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA BUSE 10 KM",
+        "distance": "10 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "09/04/2026",
+        "places_restantes": 183,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DE l’HERS #4",
+    "categorie": "Trail",
+    "date_evenement": "19 Avr 2026",
+    "heure_evenement": "8h30",
+    "lieu_evenement": "La Bastide-sur-l'Hers (09)",
+    "url_detail": "https://chrono-start.com/events/trail-de-lhers/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5033",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "12€",
+        "date_cloture_inscriptions": "17/04/2026",
+        "places_restantes": 250,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL'QUILLOU 11 KM",
+        "distance": "11 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "17/04/2026",
+        "places_restantes": 250,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL'QUILLOU 11 KM",
+        "distance": "11 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "17/04/2026",
+        "places_restantes": 250,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL DE L'HERS 25 KM",
+        "distance": "25 KM",
+        "prix": "26€",
+        "date_cloture_inscriptions": "17/04/2026",
+        "places_restantes": 161,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "FOULÉES GAULOISES",
+    "categorie": "Trail",
+    "date_evenement": "25 Avr 2026",
+    "heure_evenement": "19h00",
+    "lieu_evenement": "Puymiclan (47)",
+    "url_detail": "https://chrono-start.com/events/foulees-gauloises/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5025",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "5€",
+        "date_cloture_inscriptions": "22/04/2026",
+        "places_restantes": 268,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "5€",
+        "date_cloture_inscriptions": "22/04/2026",
+        "places_restantes": 268,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "5€",
+        "date_cloture_inscriptions": "22/04/2026",
+        "places_restantes": 268,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 20 KM",
+        "distance": "20 KM",
+        "prix": "5€",
+        "date_cloture_inscriptions": "22/04/2026",
+        "places_restantes": 178,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DE MONTESQUIEU",
+    "categorie": "Trail",
+    "date_evenement": "25 Avr 2026",
+    "heure_evenement": "13h00",
+    "lieu_evenement": "Montesquieu (82)",
+    "url_detail": "https://chrono-start.com/events/trail-de-montesquieu/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5004",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "8€",
+        "date_cloture_inscriptions": "24/04/2026",
+        "places_restantes": 86,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "8€",
+        "date_cloture_inscriptions": "24/04/2026",
+        "places_restantes": 86,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "8€",
+        "date_cloture_inscriptions": "24/04/2026",
+        "places_restantes": 86,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 15 KM",
+        "distance": "15 KM",
+        "prix": "13€",
+        "date_cloture_inscriptions": "24/04/2026",
+        "places_restantes": 120,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL QUILLAN",
+    "categorie": "Trail",
+    "date_evenement": "25 - 26 Avr 2026",
+    "heure_evenement": "6h00",
+    "lieu_evenement": "Quillan (11)",
+    "url_detail": "https://chrono-start.com/events/trail-quillan/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4717",
+    "courses": [
+      {
+        "nom_course": "Samedi soir : LA CARACHNIGHT 11 KM",
+        "distance": "11 KM",
+        "prix": "16€",
+        "date_cloture_inscriptions": "23/04/2026",
+        "places_restantes": 260,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "Dimanche : 44 KM LE TREMPLIN - SOLO",
+        "distance": "44 KM",
+        "prix": "44€ à 55€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "Dimanche : 44 KM LE TREMPLIN - RELAIS DE 2",
+        "distance": "44 KM",
+        "prix": "44€ à 55€",
+        "date_cloture_inscriptions": "23/04/2026",
+        "places_restantes": 25,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "Dimanche : LE TIGNOUS 28 KM",
+        "distance": "28 KM",
+        "prix": "32€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "Dimanche : LE CAPIO 18 KM",
+        "distance": "18 KM",
+        "prix": "23€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "AUT’MONTEL TRAIL",
+    "categorie": "Trail",
+    "date_evenement": "26 Avr 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Payrin-Augmontel (81)",
+    "url_detail": "https://chrono-start.com/events/autmontel-trail/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5024",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "12€",
+        "date_cloture_inscriptions": "24/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "24/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "24/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 21 KM",
+        "distance": "21 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "24/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 30 KM",
+        "distance": "30 KM",
+        "prix": "27€",
+        "date_cloture_inscriptions": "24/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DES 3 RUISSEAUX",
+    "categorie": "Trail",
+    "date_evenement": "26 Avr 2026",
+    "heure_evenement": "9h30",
+    "lieu_evenement": "Montrabé (31)",
+    "url_detail": "https://chrono-start.com/events/trail-des-3-ruisseaux/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4968",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "12€",
+        "date_cloture_inscriptions": "23/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "LE GAZEL 12 KM",
+        "distance": "12 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "23/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "LE GAZEL 12 KM",
+        "distance": "12 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "LA SAUSSE 22 KM",
+        "distance": "22 KM",
+        "prix": "22€",
+        "date_cloture_inscriptions": "23/04/2026",
+        "places_restantes": 154,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU FACTEUR",
+    "categorie": "Trail",
+    "date_evenement": "26 Avr 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Maxou (46)",
+    "url_detail": "https://chrono-start.com/events/trail-du-facteur/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5012",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "25/04/2026",
+        "places_restantes": 129,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LE COLISSIMO 9 KM",
+        "distance": "9 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "25/04/2026",
+        "places_restantes": 129,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LE COLISSIMO 9 KM",
+        "distance": "9 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "25/04/2026",
+        "places_restantes": 129,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LE RECOMMANDÉ 14 KM",
+        "distance": "14 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "25/04/2026",
+        "places_restantes": 136,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LE TIMBRÉ 23 KM",
+        "distance": "23 KM",
+        "prix": "16€",
+        "date_cloture_inscriptions": "25/04/2026",
+        "places_restantes": 129,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "STAGE TRAIL DU DOMAINE DE BOUËT",
+    "categorie": "Trail",
+    "date_evenement": "01 - 03 Mai 2026",
+    "heure_evenement": null,
+    "lieu_evenement": "Domaine de Bouët à Barguelonne en Quercy (46)",
+    "url_detail": "https://chrono-start.com/events/stage-trail-du-domaine-de-bouet/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5120",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "420€",
+        "date_cloture_inscriptions": "27/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "STAGE TRAIL DU DOMAINE DE BOUËT (logement au domaine + repas inclus)",
+        "distance": null,
+        "prix": "420€",
+        "date_cloture_inscriptions": "27/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "STAGE TRAIL DU DOMAINE DE BOUËT (logement au domaine + repas inclus)",
+        "distance": null,
+        "prix": "420€",
+        "date_cloture_inscriptions": "27/04/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU MONT MAJOR",
+    "categorie": "Trail",
+    "date_evenement": "02 Mai 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Saint Pierre des Champs (11)",
+    "url_detail": "https://chrono-start.com/events/trail-du-mont-major/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4943",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "15€",
+        "date_cloture_inscriptions": "01/05/2026",
+        "places_restantes": 77,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA DEVÈZE 12 KM",
+        "distance": "12 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "01/05/2026",
+        "places_restantes": 77,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA DEVÈZE 12 KM",
+        "distance": "12 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "01/05/2026",
+        "places_restantes": 77,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LE MAJOR 25 KM",
+        "distance": "25 KM",
+        "prix": "28€",
+        "date_cloture_inscriptions": "01/05/2026",
+        "places_restantes": 130,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU MOURTIS",
+    "categorie": "Trail",
+    "date_evenement": "02 Mai 2026",
+    "heure_evenement": "6h30",
+    "lieu_evenement": "Boutx (31)",
+    "url_detail": "https://chrono-start.com/events/trail-du-mourtis/",
+    "url_inscription": null,
+    "courses": []
+  },
+  {
+    "nom_evenement": "TRAIL SAUTE COLLINES",
+    "categorie": "Trail",
+    "date_evenement": "03 Mai 2026",
+    "heure_evenement": "9h15",
+    "lieu_evenement": "Villeneuve-la-Comptal (11)",
+    "url_detail": "https://chrono-start.com/events/trail-saute-collines/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4989",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "18€",
+        "date_cloture_inscriptions": "02/05/2026",
+        "places_restantes": 283,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 20 KM",
+        "distance": "20 KM",
+        "prix": "18€",
+        "date_cloture_inscriptions": "02/05/2026",
+        "places_restantes": 283,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 20 KM",
+        "distance": "20 KM",
+        "prix": "18€",
+        "date_cloture_inscriptions": "02/05/2026",
+        "places_restantes": 283,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "02/05/2026",
+        "places_restantes": 280,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "CHALLENGE DU SOUVENIR ET DE LA PAIX",
+    "categorie": "Trail",
+    "date_evenement": "08 Mai 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Pompertuzat (31)",
+    "url_detail": "https://chrono-start.com/events/challenge-du-souvenir-et-de-la-paix/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5041",
+    "courses": [
+      {
+        "nom_course": "TRAIL DU 8 MAI 45 DE 10,8 KM",
+        "distance": "10,8 KM",
+        "prix": "13€",
+        "date_cloture_inscriptions": "07/05/2026",
+        "places_restantes": 326,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL DE LA TOUR 21,6 KM",
+        "distance": "21,6 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "07/05/2026",
+        "places_restantes": 330,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "LA CABRI-MOUNTAIN",
+    "categorie": "Trail",
+    "date_evenement": "09 Mai 2026",
+    "heure_evenement": "14h30",
+    "lieu_evenement": "Montcabrier (46)",
+    "url_detail": "https://chrono-start.com/events/la-cabri-mountain/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5095",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "08/05/2026",
+        "places_restantes": 145,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 12 KM",
+        "distance": "12 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "08/05/2026",
+        "places_restantes": 145,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 12 KM",
+        "distance": "12 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "08/05/2026",
+        "places_restantes": 145,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 21 KM",
+        "distance": "21 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "08/05/2026",
+        "places_restantes": 100,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "LA PONLATAISE",
+    "categorie": "Trail",
+    "date_evenement": "10 Mai 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Ponlat-Taillebourg (31)",
+    "url_detail": "https://chrono-start.com/events/la-ponlataise/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4998",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "09/05/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "09/05/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "09/05/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 16 KM",
+        "distance": "16 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "09/05/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "LA SÉRIGNACAISE",
+    "categorie": "Trail",
+    "date_evenement": "10 Mai 2026",
+    "heure_evenement": "9h30",
+    "lieu_evenement": "Sérignac (82)",
+    "url_detail": "https://chrono-start.com/events/la-serignacaise/",
+    "url_inscription": null,
+    "courses": []
+  },
+  {
+    "nom_evenement": "TRAIL D’ANGLARS",
+    "categorie": "Trail",
+    "date_evenement": "10 Mai 2026",
+    "heure_evenement": "9h30",
+    "lieu_evenement": "Anglars (46)",
+    "url_detail": "https://chrono-start.com/events/trail-danglars/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5085",
+    "courses": []
+  },
+  {
+    "nom_evenement": "VIGNES ET CHÂTEAUX",
+    "categorie": "Trail",
+    "date_evenement": "14 Mai 2026",
+    "heure_evenement": "9h30",
+    "lieu_evenement": "Douelle (46)",
+    "url_detail": "https://chrono-start.com/events/vignes-et-chateaux/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5018",
+    "courses": [
+      {
+        "nom_course": "COURSE 12 KM",
+        "distance": "12 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "12/05/2026",
+        "places_restantes": 381,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE 20 KM",
+        "distance": "20 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "12/05/2026",
+        "places_restantes": 142,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "ANGELUS TRAIL",
+    "categorie": "Trail",
+    "date_evenement": "16 Mai 2026",
+    "heure_evenement": "7h00",
+    "lieu_evenement": "Cahors (46)",
+    "url_detail": "https://chrono-start.com/events/angelus-trail/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4935",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "40€",
+        "date_cloture_inscriptions": "15/05/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "ANGELUS TRAIL 80 KM",
+        "distance": "80 KM",
+        "prix": "40€",
+        "date_cloture_inscriptions": "15/05/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "ANGELUS TRAIL 80 KM",
+        "distance": "80 KM",
+        "prix": "40€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "ANGELUS TRAIL 49 KM",
+        "distance": "49 KM",
+        "prix": "30€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "ANGELUS TRAIL 19 KM",
+        "distance": "19 KM",
+        "prix": "17€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "MDO TRAIL",
+    "categorie": "Trail",
+    "date_evenement": "23 Mai 2026",
+    "heure_evenement": "8h00",
+    "lieu_evenement": "Montferrier (09)",
+    "url_detail": "https://chrono-start.com/events/mdo-trail/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4984",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "12€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "ISARD 10 KM",
+        "distance": "10 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "ISARD 10 KM",
+        "distance": "10 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": 75,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "GALINAT 15 KM",
+        "distance": "15 KM",
+        "prix": "18€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "CADENE 30 KM",
+        "distance": "30 KM",
+        "prix": "34€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU PECH DE BUGARACH",
+    "categorie": "Trail",
+    "date_evenement": "23 Mai 2026",
+    "heure_evenement": "10h30",
+    "lieu_evenement": "Bugarach (11)",
+    "url_detail": "https://chrono-start.com/events/trail-du-pech-de-bugarach/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5100",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "20€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": 112,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 20 KM (Inclus repas pâtes et poulet)",
+        "distance": "20 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": 112,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 20 KM (Inclus repas pâtes et poulet)",
+        "distance": "20 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": 112,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU LOU",
+    "categorie": "Trail",
+    "date_evenement": "24 Mai 2026",
+    "heure_evenement": "8h00",
+    "lieu_evenement": "Loubéjac (82)",
+    "url_detail": "https://chrono-start.com/events/trail-du-lou/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5006",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "12€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": 99,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL OMÉGA 12 KM",
+        "distance": "12 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": 99,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL OMÉGA 12 KM",
+        "distance": "12 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": 99,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL BÊTA 21 KM",
+        "distance": "21 KM",
+        "prix": "19€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": 164,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL ALPHA 30 KM",
+        "distance": "30 KM",
+        "prix": "28€",
+        "date_cloture_inscriptions": "22/05/2026",
+        "places_restantes": 91,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DES SARDINES",
+    "categorie": "Trail",
+    "date_evenement": "31 Mai 2026",
+    "heure_evenement": "9h15",
+    "lieu_evenement": "Azas (31)",
+    "url_detail": "https://chrono-start.com/events/le-trail-des-sardines/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5022",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "30/05/2026",
+        "places_restantes": 56,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA PRAMADEL TRAIL 7 KM (non chronométrée)",
+        "distance": "7 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "30/05/2026",
+        "places_restantes": 56,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA BELLEGARDE TRAIL 13 KM",
+        "distance": "13 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "30/05/2026",
+        "places_restantes": 157,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA CASTELFORT TRAIL 19 KM",
+        "distance": "19 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "30/05/2026",
+        "places_restantes": 144,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU ROCAMADOUR",
+    "categorie": "Trail",
+    "date_evenement": "31 Mai 2026",
+    "heure_evenement": "8h00",
+    "lieu_evenement": "Rocamadour (46)",
+    "url_detail": "https://chrono-start.com/events/trail-du-rocamadour/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4733",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "18€",
+        "date_cloture_inscriptions": "30/05/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 12 KM",
+        "distance": "12 KM",
+        "prix": "18€",
+        "date_cloture_inscriptions": "30/05/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 12 KM",
+        "distance": "12 KM",
+        "prix": null,
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 24 KM",
+        "distance": "24 KM",
+        "prix": "18€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 35 KM",
+        "distance": "35 KM",
+        "prix": "28€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "LÉG’Ô’TRAIL",
+    "categorie": "Trail",
+    "date_evenement": "06 Juin 2026",
+    "heure_evenement": "8h00",
+    "lieu_evenement": "Léguevin (31)",
+    "url_detail": "https://chrono-start.com/events/trail-de-leguevin/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5045",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "12€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 301,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 301,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 301,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 18 KM",
+        "distance": "18 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 162,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 30 KM",
+        "distance": "30 KM",
+        "prix": "30€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 111,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU SOLEIL COUCHANT",
+    "categorie": "Trail",
+    "date_evenement": "06 Juin 2026",
+    "heure_evenement": "18h15",
+    "lieu_evenement": "Trébaïx (46)",
+    "url_detail": "https://chrono-start.com/events/trail-du-soleil-couchant/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5141",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "14€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 186,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 16 KM",
+        "distance": "16 KM",
+        "prix": "14€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 186,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 16 KM",
+        "distance": "16 KM",
+        "prix": "14€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 186,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 285,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DE MONS",
+    "categorie": "Trail",
+    "date_evenement": "07 Juin 2026",
+    "heure_evenement": "8h45",
+    "lieu_evenement": "Mons (31)",
+    "url_detail": "https://chrono-start.com/events/trail-de-mons/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5086",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "7€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 112,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA TRINCHANT 4,4 KM (nés avant 2013)",
+        "distance": "4,4 KM",
+        "prix": "7€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 112,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA TRINCHANT 4,4 KM (nés avant 2013)",
+        "distance": "4,4 KM",
+        "prix": "7€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 112,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA PIGASSE 14 KM (nés avant 2009)",
+        "distance": "14 KM",
+        "prix": "14€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 310,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA SEILLONNE 23 KM (nés avant 2007)",
+        "distance": "23 KM",
+        "prix": "23€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 242,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE ENFANTS 2,4 KM (Chronométrée - nés de 2013 à 2014)",
+        "distance": "2,4 KM",
+        "prix": "5€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": 95,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU CAGIRE",
+    "categorie": "Trail",
+    "date_evenement": "07 Juin 2026",
+    "heure_evenement": "8h00",
+    "lieu_evenement": "Juzet-d'Izaut (31)",
+    "url_detail": "https://chrono-start.com/events/trail-du-cagire/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4964",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "15€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "LA CABANE DU CAGIRE 10 KM",
+        "distance": "10 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "LA CABANE DU CAGIRE 10 KM",
+        "distance": "10 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "LE PARCOURS DES CRÊTES 18 KM",
+        "distance": "18 KM",
+        "prix": "23€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "LA GRANDE BOUCLE 29 KM",
+        "distance": "29 KM",
+        "prix": "34€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU DONZAC BRULHOIS",
+    "categorie": "Trail",
+    "date_evenement": "07 Juin 2026",
+    "heure_evenement": "8h30",
+    "lieu_evenement": "Donzac (82)",
+    "url_detail": "https://chrono-start.com/events/trail-du-donzac-brulhois/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5111",
+    "courses": [
+      {
+        "nom_course": "TRAIL 20 KM",
+        "distance": "20 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "04/06/2026",
+        "places_restantes": 137,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 12 KM",
+        "distance": "12 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "04/06/2026",
+        "places_restantes": 237,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL D’ANTUGNAC",
+    "categorie": "Trail",
+    "date_evenement": "07 Juin 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Antugnac (11)",
+    "url_detail": "https://chrono-start.com/events/trail-dantugnac/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5026",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "SUPER TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "SUPER TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "INCROYABLE TRAIL 18 KM",
+        "distance": "18 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "05/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DE MONTGAILHARD",
+    "categorie": "Trail",
+    "date_evenement": "13 Juin 2026",
+    "heure_evenement": "7h00",
+    "lieu_evenement": "Montgailhard (09)",
+    "url_detail": "https://chrono-start.com/events/trail-de-montgailhard/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5013",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "13€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "13€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "13€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 17 KM",
+        "distance": "17 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 30 KM",
+        "distance": "30 KM",
+        "prix": "25€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU LAC D’OÔ",
+    "categorie": "Trail",
+    "date_evenement": "13 Juin 2026",
+    "heure_evenement": "7h15",
+    "lieu_evenement": "Oô (31)",
+    "url_detail": "https://chrono-start.com/events/trail-du-lac-doo/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4802",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL LE SECULEJO 7 KM",
+        "distance": "7 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL LE SECULEJO 7 KM",
+        "distance": "7 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 19,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL DU LAC D'OÔ 14 KM",
+        "distance": "14 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL LA LARBOUSTOISE 24 KM",
+        "distance": "24 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL LA SKY D'OÔ 35 KM",
+        "distance": "35 KM",
+        "prix": "25€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU VIGNOBLE GAILLACOIS",
+    "categorie": "Trail",
+    "date_evenement": "13 Juin 2026",
+    "heure_evenement": "14h30",
+    "lieu_evenement": "Gaillac (81)",
+    "url_detail": "https://chrono-start.com/events/trail-du-vignoble-gaillacois/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5118",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "16€",
+        "date_cloture_inscriptions": "09/06/2026",
+        "places_restantes": 286,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA MAUZAC 12 KM",
+        "distance": "12 KM",
+        "prix": "16€",
+        "date_cloture_inscriptions": "09/06/2026",
+        "places_restantes": 286,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA MAUZAC 12 KM",
+        "distance": "12 KM",
+        "prix": "16€",
+        "date_cloture_inscriptions": "09/06/2026",
+        "places_restantes": 286,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA BRAUCOL 17 KM",
+        "distance": "17 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "09/06/2026",
+        "places_restantes": 298,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA LOIN DE L'OEIL 22 KM",
+        "distance": "22 KM",
+        "prix": "27€",
+        "date_cloture_inscriptions": "09/06/2026",
+        "places_restantes": 222,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA DURAS 40 KM",
+        "distance": "40 KM",
+        "prix": "38€",
+        "date_cloture_inscriptions": "09/06/2026",
+        "places_restantes": 132,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "DESPERADO TRAIL",
+    "categorie": "Trail",
+    "date_evenement": "14 Juin 2026",
+    "heure_evenement": "8h00",
+    "lieu_evenement": "Durfort (81)",
+    "url_detail": "https://chrono-start.com/events/desperado-trail/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5048",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "12€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 221,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 9 KM",
+        "distance": "9 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 221,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 9 KM",
+        "distance": "9 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 221,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 14 KM",
+        "distance": "14 KM",
+        "prix": "16€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 79,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 33 KM",
+        "distance": "33 KM",
+        "prix": "32€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 15,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "LE MARCO TRAIL",
+    "categorie": "Trail",
+    "date_evenement": "14 Juin 2026",
+    "heure_evenement": "9h30",
+    "lieu_evenement": "Marcorignan (11)",
+    "url_detail": "https://chrono-start.com/events/la-marco-trail/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5061",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DE LA CASCADE D’ARS",
+    "categorie": "Trail",
+    "date_evenement": "14 Juin 2026",
+    "heure_evenement": "7h30",
+    "lieu_evenement": "Aulus-les-Bains (09)",
+    "url_detail": "https://chrono-start.com/events/trail-de-la-cascade-dars/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5044",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "MINI TRAIL DE LA VALLÉE DU GABRET 6 KM",
+        "distance": "6 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "MINI TRAIL DE LA VALLÉE DU GABRET 6 KM",
+        "distance": "6 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TOURN DE LA CASCADE 14 KM",
+        "distance": "14 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL DE LA VALLÉE DU GARBET 33 KM",
+        "distance": "33 KM",
+        "prix": "30€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU LAC",
+    "categorie": "Trail",
+    "date_evenement": "14 Juin 2026",
+    "heure_evenement": "9h30",
+    "lieu_evenement": "Lansac (65)",
+    "url_detail": "https://chrono-start.com/events/trail-du-lac/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5148",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "11€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 173,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "11€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 173,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 11 KM",
+        "distance": "11 KM",
+        "prix": "11€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 173,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 18 KM",
+        "distance": "18 KM",
+        "prix": "16€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 177,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL RIVIÈRES ET CHATEAUX",
+    "categorie": "Trail",
+    "date_evenement": "14 Juin 2026",
+    "heure_evenement": "7h45",
+    "lieu_evenement": "Saint-Orens-de-Gameville (31)",
+    "url_detail": "https://chrono-start.com/events/course-des-rivieres-et-chateaux/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4874",
+    "courses": [
+      {
+        "nom_course": "TRAIL NATURE 30 KM - SOLO",
+        "distance": "30 KM",
+        "prix": "36€",
+        "date_cloture_inscriptions": "11/06/2026",
+        "places_restantes": 60,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL NATURE 30 KM - RELAIS DE 3",
+        "distance": "30 KM",
+        "prix": "36€",
+        "date_cloture_inscriptions": "11/06/2026",
+        "places_restantes": 60,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE NATURE 23 KM",
+        "distance": "23 KM",
+        "prix": "24€",
+        "date_cloture_inscriptions": "11/06/2026",
+        "places_restantes": 255,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE INTERMÉDIAIRE 14 KM",
+        "distance": "14 KM",
+        "prix": "17€",
+        "date_cloture_inscriptions": "11/06/2026",
+        "places_restantes": 332,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE DÉCOUVERTE 7 KM",
+        "distance": "7 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "11/06/2026",
+        "places_restantes": 252,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL SAINT CHAMARAND",
+    "categorie": "Trail",
+    "date_evenement": "14 Juin 2026",
+    "heure_evenement": "8h30",
+    "lieu_evenement": "Saint-Chamarand (46)",
+    "url_detail": "https://chrono-start.com/events/trail-saint-chamarand/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5023",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "17€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 97,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL LOU DIABLE ME CRAME 31 KM",
+        "distance": "31 KM",
+        "prix": "17€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 97,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL LOU DIABLE ME CRAME 31 KM",
+        "distance": "31 KM",
+        "prix": "17€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 97,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL LOU MILADIOU 15 KM",
+        "distance": "15 KM",
+        "prix": "12€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 136,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL LOU BOUDIOU 9,5 KM",
+        "distance": "9,5 KM",
+        "prix": "9€",
+        "date_cloture_inscriptions": "12/06/2026",
+        "places_restantes": 141,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL SAMATANAIS",
+    "categorie": "Trail",
+    "date_evenement": "14 Juin 2026",
+    "heure_evenement": "8h30",
+    "lieu_evenement": "Samatan (32)",
+    "url_detail": "https://chrono-start.com/events/trail-samatanais/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5072",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "11€",
+        "date_cloture_inscriptions": "13/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE 11 KM",
+        "distance": "11 KM",
+        "prix": "11€",
+        "date_cloture_inscriptions": "13/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE 11 KM",
+        "distance": "11 KM",
+        "prix": "11€",
+        "date_cloture_inscriptions": "13/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "COURSE 16 KM",
+        "distance": "16 KM",
+        "prix": "16€",
+        "date_cloture_inscriptions": "13/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "MONT FOURCATRAIL",
+    "categorie": "Trail",
+    "date_evenement": "20 Juin 2026",
+    "heure_evenement": "7h00",
+    "lieu_evenement": "Saint-Paul-de-Jarrat (09)",
+    "url_detail": "https://chrono-start.com/events/mont-fourcatrail/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5071",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "30€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": 197,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "L'INTÉGRALE 36 KM (Boisson + Tee-Shirt inclus)",
+        "distance": "36 KM",
+        "prix": "30€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": 197,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "L'INTÉGRALE 36 KM (Boisson + Tee-Shirt inclus)",
+        "distance": "36 KM",
+        "prix": "30€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": 197,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "MONT FOURCATRAIL 26 KM (Boisson + Tee-Shirt inclus)",
+        "distance": "26 KM",
+        "prix": "25€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": 176,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL DES FONTAINES 10 KM (Boisson + Mug inclus)",
+        "distance": "10 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": 200,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL LES COTEAUX DE SAINT PIERRE",
+    "categorie": "Trail",
+    "date_evenement": "20 Juin 2026",
+    "heure_evenement": "17h00",
+    "lieu_evenement": "Montastruc (82)",
+    "url_detail": "https://chrono-start.com/events/trail-les-coteaux-de-saint-pierre/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5102",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "15€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": 299,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 13 KM",
+        "distance": "13 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": 299,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 13 KM",
+        "distance": "13 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": 299,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL PERCHÉ DE CALVIGNAC",
+    "categorie": "Trail",
+    "date_evenement": "20 Juin 2026",
+    "heure_evenement": "8h30",
+    "lieu_evenement": "Calvignac (46)",
+    "url_detail": "https://chrono-start.com/events/trail-perche-de-calvignac/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4999",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "20€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 26 KM",
+        "distance": "26 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 26 KM",
+        "distance": "26 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 15 KM",
+        "distance": "15 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "BISCOTEAUX TRAIL",
+    "categorie": "Trail",
+    "date_evenement": "21 Juin 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Vigoulet-Auzil (31)",
+    "url_detail": "https://chrono-start.com/events/biscoteaux-trail/",
+    "url_inscription": null,
+    "courses": []
+  },
+  {
+    "nom_evenement": "CAZATRAIL BY TSL",
+    "categorie": "Trail",
+    "date_evenement": "21 Juin 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Cazavet (09)",
+    "url_detail": "https://chrono-start.com/events/cazatrail-by-tsl/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4991",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA CAZAVETTE 11 KM",
+        "distance": "11 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA CAZAVETTE 11 KM",
+        "distance": "11 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "LA CAZ'AVENTURE 18 KM",
+        "distance": "18 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "19/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL URBAIN DE BARBEZIEUX",
+    "categorie": "Trail",
+    "date_evenement": "27 Juin 2026",
+    "heure_evenement": "17h30",
+    "lieu_evenement": "Barbezieux Saint Hilaire (16)",
+    "url_detail": "https://chrono-start.com/events/trail-urbain-de-barbezieux/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5112",
+    "courses": [
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "26/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 14 KM",
+        "distance": "14 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "26/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 21 KM",
+        "distance": "21 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "26/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DES 3 PICS",
+    "categorie": "Trail",
+    "date_evenement": "28 Juin 2026",
+    "heure_evenement": "5h30",
+    "lieu_evenement": "Arbas (31)",
+    "url_detail": "https://chrono-start.com/events/trail-des-3-pics/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4876",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "15€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "T3P S 10 KM",
+        "distance": "10 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "T3P S 10 KM",
+        "distance": "10 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "T3P M 22,5 KM",
+        "distance": "22,5 KM",
+        "prix": "25€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "T3P L 34 KM",
+        "distance": "34 KM",
+        "prix": "38€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "T3P XL 56 KM",
+        "distance": "56 KM",
+        "prix": "63€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DES GARRIGUES",
+    "categorie": "Trail",
+    "date_evenement": "28 Juin 2026",
+    "heure_evenement": "8h30",
+    "lieu_evenement": "Montricoux (82)",
+    "url_detail": "https://chrono-start.com/events/trail-des-garrigues/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4967",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "17€",
+        "date_cloture_inscriptions": "27/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 18 KM",
+        "distance": "18 KM",
+        "prix": "17€",
+        "date_cloture_inscriptions": "27/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 18 KM",
+        "distance": "18 KM",
+        "prix": "17€",
+        "date_cloture_inscriptions": "27/06/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DU FORT BOYARD",
+    "categorie": "Trail",
+    "date_evenement": "11 Juil 2026",
+    "heure_evenement": "8h00",
+    "lieu_evenement": "Boyardville (17)",
+    "url_detail": "https://chrono-start.com/events/trail-de-fort-boyard/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5115",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "28€",
+        "date_cloture_inscriptions": "01/07/2026",
+        "places_restantes": 203,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 28 KM",
+        "distance": "28 KM",
+        "prix": "28€",
+        "date_cloture_inscriptions": "01/07/2026",
+        "places_restantes": 203,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 28 KM",
+        "distance": "28 KM",
+        "prix": "28€",
+        "date_cloture_inscriptions": "01/07/2026",
+        "places_restantes": 203,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 19 KM",
+        "distance": "19 KM",
+        "prix": "20€",
+        "date_cloture_inscriptions": "01/07/2026",
+        "places_restantes": 106,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10 KM",
+        "distance": "10 KM",
+        "prix": "13€",
+        "date_cloture_inscriptions": "01/07/2026",
+        "places_restantes": 115,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "ULTRARIÈGE PYRÉNÉES",
+    "categorie": "Trail",
+    "date_evenement": "17 - 19 Juil 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Ax-les-Thermes (09)",
+    "url_detail": "https://chrono-start.com/events/ultrariege/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/4632",
+    "courses": [
+      {
+        "nom_course": "ULTRARIÈGE 160 KM - SOLO",
+        "distance": "160 KM",
+        "prix": "160€ à 186€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "ULTRARIÈGE 160 KM - RELAIS DE 3",
+        "distance": "160 KM",
+        "prix": "160€ à 186€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "ULTRARIÈGE 100 KM",
+        "distance": "100 KM",
+        "prix": "100€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "ULTRARIÈGE 55 KM",
+        "distance": "55 KM",
+        "prix": "55€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 23 KM",
+        "distance": "23 KM",
+        "prix": "21€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      },
+      {
+        "nom_course": "TRAIL 15 KM",
+        "distance": "15 KM",
+        "prix": "13€",
+        "date_cloture_inscriptions": null,
+        "places_restantes": null,
+        "inscriptions_fermees": true
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL ET MARCHE DE GER",
+    "categorie": "Trail",
+    "date_evenement": "24 Juil 2026",
+    "heure_evenement": "18h00",
+    "lieu_evenement": "Ger (64)",
+    "url_detail": "https://chrono-start.com/events/trail-et-marche-de-ger/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5161",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "17/07/2026",
+        "places_restantes": 150,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "17/07/2026",
+        "places_restantes": 150,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 8 KM",
+        "distance": "8 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "17/07/2026",
+        "places_restantes": 150,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 17 KM",
+        "distance": "17 KM",
+        "prix": "15€",
+        "date_cloture_inscriptions": "17/07/2026",
+        "places_restantes": 150,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DES CONFINS",
+    "categorie": "Trail",
+    "date_evenement": "09 Août 2026",
+    "heure_evenement": "9h00",
+    "lieu_evenement": "Verlus (32)",
+    "url_detail": "https://chrono-start.com/events/trail-des-confins/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5167",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "10€",
+        "date_cloture_inscriptions": "08/08/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10,5 KM",
+        "distance": "10,5 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "08/08/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 10,5 KM",
+        "distance": "10,5 KM",
+        "prix": "10€",
+        "date_cloture_inscriptions": "08/08/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  },
+  {
+    "nom_evenement": "TRAIL DE TERRIDES",
+    "categorie": "Trail",
+    "date_evenement": "30 Août 2026",
+    "heure_evenement": "8h15",
+    "lieu_evenement": "Garganvillar (82)",
+    "url_detail": "https://chrono-start.com/events/trail-de-terrides/",
+    "url_inscription": "https://chrono-start.fr/Inscription/Course/detail/c/5098",
+    "courses": [
+      {
+        "nom_course": "Sélectionner une Epreuve",
+        "distance": null,
+        "prix": "13€",
+        "date_cloture_inscriptions": "29/08/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 12 KM",
+        "distance": "12 KM",
+        "prix": "13€",
+        "date_cloture_inscriptions": "29/08/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 12 KM",
+        "distance": "12 KM",
+        "prix": "13€",
+        "date_cloture_inscriptions": "29/08/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      },
+      {
+        "nom_course": "TRAIL 22 KM",
+        "distance": "22 KM",
+        "prix": "18€",
+        "date_cloture_inscriptions": "29/08/2026",
+        "places_restantes": null,
+        "inscriptions_fermees": false
+      }
+    ]
+  }
+]

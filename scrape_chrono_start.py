@@ -5,6 +5,7 @@ import argparse
 import json
 import re
 import sys
+import unicodedata
 from dataclasses import dataclass
 from datetime import date, datetime
 from html import unescape
@@ -90,6 +91,15 @@ def parse_args() -> argparse.Namespace:
         "--start-month",
         help="Mois de départ au format YYYY-MM. Défaut: mois courant",
     )
+    parser.add_argument(
+        "--category",
+        action="append",
+        default=[],
+        help=(
+            "Catégorie à inclure. Option répétable et compatible avec une liste "
+            "séparée par des virgules. Exemples: Trail, VTT, Swimrun"
+        ),
+    )
     return parser.parse_args()
 
 
@@ -139,6 +149,30 @@ def fetch_event_index(session: requests.Session) -> list[dict[str, Any]]:
         page += 1
 
     return events
+
+
+def normalize_text(value: str) -> str:
+    normalized = unicodedata.normalize("NFKD", value)
+    ascii_only = "".join(char for char in normalized if not unicodedata.combining(char))
+    return " ".join(ascii_only.casefold().split())
+
+
+def parse_category_filters(values: list[str]) -> set[str]:
+    filters: set[str] = set()
+    for value in values:
+        for part in value.split(","):
+            candidate = part.strip()
+            if candidate:
+                filters.add(normalize_text(candidate))
+    return filters
+
+
+def matches_category(category: str | None, filters: set[str]) -> bool:
+    if not filters:
+        return True
+    if not category:
+        return False
+    return normalize_text(category) in filters
 
 
 def fetch_html(session: requests.Session, url: str) -> str:
@@ -268,6 +302,7 @@ def main() -> int:
     args = parse_args()
     start_month = resolve_start_month(args.start_month)
     window = build_window(start_month, args.months)
+    category_filters = parse_category_filters(args.category)
 
     try:
         session = build_session()
@@ -285,7 +320,8 @@ def main() -> int:
                 continue
 
             if overlaps_window(event["_start_date"], event["_end_date"], window):
-                extracted_events.append(event)
+                if matches_category(event["categorie"], category_filters):
+                    extracted_events.append(event)
 
         extracted_events.sort(
             key=lambda event: (
