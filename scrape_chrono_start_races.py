@@ -350,6 +350,10 @@ def parse_registration_courses(html: str) -> list[dict[str, Any]]:
 
 def extract_registration_url(event_session: requests.Session, event_url: str) -> str | None:
     html = fetch_html(event_session, event_url)
+    return extract_registration_url_from_html(html)
+
+
+def extract_registration_url_from_html(html: str) -> str | None:
     soup = BeautifulSoup(html, "html.parser")
 
     candidates = [
@@ -371,6 +375,28 @@ def extract_registration_url(event_session: requests.Session, event_url: str) ->
         href = clean_text(anchor["href"]) or ""
         if "inscription" in label.lower() and "/Inscription/Course/detail/" in href:
             return normalize_url(href)
+
+    return None
+
+
+def extract_event_website_from_html(html: str) -> str | None:
+    soup = BeautifulSoup(html, "html.parser")
+
+    organizer_url = soup.select_one(".mec-single-event-organizer .mec-organizer-url a[href]")
+    if organizer_url and organizer_url.has_attr("href"):
+        href = clean_text(organizer_url["href"])
+        if href:
+            return normalize_url(href)
+
+    for organizer_block in soup.select(".mec-single-event-organizer"):
+        for definition in organizer_block.select("dd"):
+            label = clean_text(definition.find("h6").get_text(" ", strip=True)) if definition.find("h6") else ""
+            if label and label.lower() == "site internet":
+                anchor = definition.find("a", href=True)
+                if anchor:
+                    href = clean_text(anchor["href"])
+                    if href:
+                        return normalize_url(href)
 
     return None
 
@@ -397,6 +423,27 @@ def ensure_registration_url(
     return extract_registration_url(event_session, detail_url.strip())
 
 
+def fetch_event_detail_metadata(
+    event_session: requests.Session, event: dict[str, Any]
+) -> dict[str, str | None]:
+    metadata = {
+        "url_inscription": course_detail_url_from_event(event),
+        "site_internet": None,
+    }
+
+    detail_url = event.get("url_detail")
+    if not isinstance(detail_url, str) or not detail_url.strip():
+        return metadata
+
+    html = fetch_html(event_session, detail_url.strip())
+    metadata["site_internet"] = extract_event_website_from_html(html)
+
+    if not metadata["url_inscription"]:
+        metadata["url_inscription"] = extract_registration_url_from_html(html)
+
+    return metadata
+
+
 def main() -> int:
     args = parse_args()
 
@@ -409,7 +456,8 @@ def main() -> int:
         for event in events:
             event_name = clean_text(str(event.get("nom_evenement", ""))) or "<sans nom>"
             try:
-                registration_url = ensure_registration_url(event_session, event)
+                event_metadata = fetch_event_detail_metadata(event_session, event)
+                registration_url = event_metadata["url_inscription"]
             except requests.RequestException as exc:
                 print(
                     f"[warn] impossible de récupérer la page événement pour {event_name}: {exc}",
@@ -417,12 +465,14 @@ def main() -> int:
                 )
                 enriched = dict(event)
                 enriched["url_inscription"] = None
+                enriched["site_internet"] = None
                 enriched["courses"] = []
                 enriched_events.append(enriched)
                 continue
 
             enriched = dict(event)
             enriched["url_inscription"] = registration_url
+            enriched["site_internet"] = event_metadata["site_internet"]
 
             if not registration_url:
                 enriched["courses"] = []
