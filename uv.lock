@@ -214,7 +214,7 @@ wheels = [
 ]
 
 [[package]]
-name = "trailleft-chrono-start-scraper"
+name = "trailleft-event-scrapers"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

@@ -1,7 +1,7 @@
 [project]
-name = "trailleft-chrono-start-scraper"
+name = "trailleft-event-scrapers"
 version = "0.1.0"
-description = "Scraper Chrono-Start Inscriptions & Listing"
+description = "Scrapers Chrono-Start et Finishers"
 requires-python = ">=3.9"
 dependencies = [
   "beautifulsoup4>=4.12,<5",
@@ -12,9 +12,17 @@ dependencies = [
 [project.scripts]
 chrono-start-scraper = "scrape_chrono_start:main"
 chrono-start-race-scraper = "scrape_chrono_start_races:main"
+finishers-scraper = "scrape_finishers:main"
+finishers-race-scraper = "scrape_finishers_races:main"
 
 [tool.setuptools]
-py-modules = ["scrape_chrono_start", "scrape_chrono_start_races"]
+py-modules = [
+  "finishers_common",
+  "scrape_chrono_start",
+  "scrape_chrono_start_races",
+  "scrape_finishers",
+  "scrape_finishers_races",
+]
 
 [tool.uv]
 package = true
