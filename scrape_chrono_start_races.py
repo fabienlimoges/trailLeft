@@ -168,8 +168,45 @@ def is_closed_text(text: str | None) -> bool:
     return "inscriptions internet fermees" in lowered or "complet" in lowered
 
 
+def direct_cells(row: Tag) -> list[Tag]:
+    return [cell for cell in row.find_all("td", recursive=False) if isinstance(cell, Tag)]
+
+
+def direct_course_icon(row: Tag) -> Tag | None:
+    for cell in direct_cells(row):
+        icon = cell.find("img", src=re.compile(r"icon-epreuve-\d+\.png"), recursive=False)
+        if icon:
+            return icon
+    return None
+
+
+def primary_content_cell(row: Tag) -> Tag | None:
+    cells = direct_cells(row)
+    if len(cells) >= 2:
+        return cells[1]
+    if cells:
+        return cells[0]
+    return None
+
+
+def is_course_row(row: Tag) -> bool:
+    if not direct_course_icon(row):
+        return False
+    content_cell = primary_content_cell(row)
+    if not content_cell:
+        return False
+    return bool(
+        content_cell.find("div", recursive=False)
+        or content_cell.find("select", recursive=False)
+        or content_cell.find(string=re.compile(r"Inscriptions Internet Ferm", re.IGNORECASE))
+    )
+
+
 def extract_title_from_row(row: Tag) -> str | None:
-    title_node = row.find("div")
+    content_cell = primary_content_cell(row)
+    if not content_cell:
+        return None
+    title_node = content_cell.find("div", recursive=False)
     if title_node:
         bold = title_node.find("b")
         if bold:
@@ -178,7 +215,10 @@ def extract_title_from_row(row: Tag) -> str | None:
 
 
 def extract_badge_price(row: Tag) -> str | None:
-    badge = row.select_one(".badge-big")
+    content_cell = primary_content_cell(row)
+    if not content_cell:
+        return None
+    badge = content_cell.select_one(".badge-big")
     if not badge:
         return None
     return parse_price(badge.get_text(" ", strip=True))
@@ -213,7 +253,8 @@ def parse_grouped_course_rows(rows: list[Tag], start_index: int) -> tuple[list[d
     main_row = rows[start_index]
     base_title = extract_title_from_row(main_row)
     base_price = extract_badge_price(main_row)
-    select = main_row.find("select")
+    content_cell = primary_content_cell(main_row)
+    select = content_cell.find("select", recursive=False) if content_cell else None
     if not select or not select.has_attr("id"):
         return [], start_index
 
@@ -226,7 +267,7 @@ def parse_grouped_course_rows(rows: list[Tag], start_index: int) -> tuple[list[d
     while index < len(rows):
         row = rows[index]
         row_id = row.get("id")
-        if row.find("img", src=re.compile(r"icon-epreuve-1\.png")):
+        if is_course_row(row):
             break
 
         if row_id == f"tr-group-{group_id}":
@@ -290,11 +331,12 @@ def parse_registration_courses(html: str) -> list[dict[str, Any]]:
     index = 0
     while index < len(rows):
         row = rows[index]
-        if not row.find("img", src=re.compile(r"icon-epreuve-1\.png")):
+        if not is_course_row(row):
             index += 1
             continue
 
-        if row.find("select"):
+        content_cell = primary_content_cell(row)
+        if content_cell and content_cell.find("select", recursive=False):
             grouped_courses, last_index = parse_grouped_course_rows(rows, index)
             courses.extend(grouped_courses)
             index = last_index + 1
