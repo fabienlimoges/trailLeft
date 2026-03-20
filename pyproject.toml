@@ -1,0 +1,15 @@
+[project]
+name = "trailleft-chrono-start-scraper"
+version = "0.1.0"
+description = "Scraper Chrono-Start Inscriptions & Listing"
+requires-python = ">=3.9"
+dependencies = [
+  "beautifulsoup4>=4.12,<5",
+  "requests>=2.31,<3",
+]
+
+[project.scripts]
+chrono-start-scraper = "scrape_chrono_start:main"
+
+[tool.uv]
+package = true
